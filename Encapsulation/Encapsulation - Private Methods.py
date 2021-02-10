@@ -1,6 +1,6 @@
 """
 Encapsulation:
-    Encapsulation is nothing but a wrapping broth data member and member functions together as single unit
+    Encapsulation is nothing but a wrapping both data member and member functions together as single unit
 Data Encapsulation is also known as data hiding, is the mechanism whereby the implementation details of the class
     are kept hidden from the user
 """
