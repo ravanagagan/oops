@@ -1,0 +1,30 @@
+"""
+PolyMorphism
+    Poly -> many
+    Morph -> forms              One thing can take many forms
+
+example:
+        We behave differently in different location like with we behave differently with friends and we behave
+        differently in office so we are polymorphic
+
+* if we talk about objects, objects will have multiple forms
+
+There are four ways of implementing Polymorphism
+    1. Duck Typing
+    2. Operator Overloading
+    3. Method overloading
+    4. Method overriding
+
+Duck Typing:
+    Duck test:
+        if it looks like a duck,
+        swims like a duck and
+        quacks like a duck then it probably a duck
+
+x = 5 -> 5 is a integer object, memory will be alloocated for that -> x is just a name for it
+x = 'Gagan' -> 'Gagan' is a String object, memory will be alloocated for that -> x is just a name for it
+note: We dont have specific type for X
+
+
+No matter which class object this is what only matters is object, and object's class must contain the calling method
+
